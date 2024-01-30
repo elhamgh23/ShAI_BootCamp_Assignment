@@ -1,0 +1,5 @@
+The submission must be a GitHub link only.
+
+For the checker:
+First, verify the solutions to the first five questions.
+Then, review how he/she solved them.
