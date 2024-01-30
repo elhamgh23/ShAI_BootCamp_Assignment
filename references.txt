@@ -1,0 +1,16 @@
+
+Basic Python
+English Cash course: https://www.youtube.com/watch?v=kqtD5dpn9C8
+English Course: https://www.youtube.com/watch?v=rfscVS0vtbw
+Arabic Course: https://www.youtube.com/watch?v=Yv_QhRp95lk&list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ
+
+Data Analysis (DA) using python:
+English
+Pandas : https://www.youtube.com/watch?v=vmEHCJofslg
+Matplotlib: https://www.youtube.com/watch?v=3Xc3CA655Y4
+Seaborn : https://www.youtube.com/watch?v=6GUZXDef2U0
+
+Arabic
+Numpy : https://www.youtube.com/watch?v=IJwkP_rj01I&list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB&index=6
+matplotlib : https://www.youtube.com/watch?v=SuQHXqPvcOE&list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB&index=7
+Pandas : https://www.youtube.com/watch?v=y4-Sqkuq4Vg&list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB&index=8
